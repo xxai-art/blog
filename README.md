@@ -8,7 +8,7 @@ description: 人工智能时代 · 我们计算艺术
 分享 Stable Diffustion 提示词 · 发现新的模型和Lora
 {% endembed %}
 
-**点上面链接访问网站。CDN用的是 Cloudflare ，中国用户用境外代理访问速度会更好。**
+⬆️ **点上面链接访问网站。CDN用的是 Cloudflare ，中国用户用境外代理访问速度会更好。**
 
 ![xxai.art 网站截图](https://i-01.eu.org/2023/09/xw0hXTH.webp)
 
