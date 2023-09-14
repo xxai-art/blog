@@ -26,6 +26,10 @@ curl -s https://ghproxy.com/https://raw.githubusercontent.com/xxai-art/docker/ma
 
 会读取数据库，更新每个图的质量分
 
+注意代码中有根据图片的宽度做降权，越宽的图片展示面积越大，越容易被点击，要降权
+
+推荐算法也需要注意这一点
+
 
 
 [rsrv/xws/src/db/rec.rs](https://github.com/xxai-art/rsrv/blob/main/xws/src/db/rec.rs)&#x20;
